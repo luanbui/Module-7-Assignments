@@ -1,0 +1,15 @@
+DX 703 – Spring 2026 – Homework 07 Solutions
+
+Solution Sheet — Accepted Answer Ranges
+
+Problem  Accepted Range    Notes                                    
+-------  ----------------  -----------------------------------------
+a1a      Greater than 0.7  Must be a decimal number above this bound
+a2a      Greater than 0.7  Must be a decimal number above this bound
+a3a      Greater than 0.7  Must be a decimal number above this bound
+
+
+Interpretation for Students
+- Integer answers must match exactly unless a range or set of values is shown.
+- Decimal answers may receive full credit if they fall within the stated acceptable range.
+- If a row says TBA, consult the autograder comments or posted solution notes for that item.
